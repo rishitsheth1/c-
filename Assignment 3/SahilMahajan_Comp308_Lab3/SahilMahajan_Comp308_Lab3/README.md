@@ -1,3 +1,0 @@
-﻿ # CRUDAngular2Test
-
-
