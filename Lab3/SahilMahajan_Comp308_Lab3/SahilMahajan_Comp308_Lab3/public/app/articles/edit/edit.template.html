@@ -1,0 +1,24 @@
+﻿ <img src="assets/logo.png">
+
+<h1>Edit Article</h1>
+<form (ngSubmit)="update()" novalidate>
+    <div>
+        <label for="section">Section</label>
+        <div>
+            <input type="text" required [(ngModel)]="article.section"
+                   name="section" placeholder="section">
+        </div>
+    </div>
+    <div>
+        <label for="semester">Semester</label>
+        <div>
+            <textarea type="text" required cols="30" rows="10"
+                      [(ngModel)]="article.semester" name="semester" placeholder="Semester">
+                </textarea>
+        </div>
+    </div>
+    <div>
+        <input type="submit" value="Update">
+    </div>
+    <strong>{{errorMessage}}</strong>
+</form>

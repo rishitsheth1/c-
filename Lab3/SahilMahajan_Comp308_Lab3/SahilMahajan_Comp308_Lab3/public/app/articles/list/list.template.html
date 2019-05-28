@@ -1,0 +1,20 @@
+﻿ <img src="assets/logo.png">
+
+<h1>Courses</h1>
+<ul>
+    <li *ngFor="let article of articles">
+        <div *ngIf=" user.firstName === article.creator.firstName ">
+            <h3><label>Course Name :</label>  <a [routerLink]="['/articles', article._id]">{{article.courseName}}</a></h3>
+            <h3><b>Student Name </b>{{article.creator.firstName}}</h3>
+            <h4>{{article.created}}/{{article.creator.fullName}}</h4>
+            <h3><label>Section </label>{{article.section}}</h3>
+           
+        </div>
+
+    </li>
+</ul>
+
+<div>
+    <a [routerLink]="['articles/
+create']">create one course</a>
+</div>
