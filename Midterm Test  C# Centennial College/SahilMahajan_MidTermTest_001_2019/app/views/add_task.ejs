@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>
+<%=title %>
+</title>
+</head>
+<body>
+
+<form action="/surveys" method="post">
+<div>
+<label>Survey ID:</label>
+<input type="text" name="surveyId" />
+</div>
+<div>
+<label>Game Genre:</label>
+<input type="text" name="gameGenre" />
+</div>
+<div>
+    <label>Days Per Year:</label>
+<input type="text" name="daysPerYear" />
+</div>
+<div>
+<label>Age:</label>
+<input type="text" name="age" />
+</div>
+
+<div>
+<input type="submit" value="Create Survey" />
+</div>
+</form>
+</body>
+</html>

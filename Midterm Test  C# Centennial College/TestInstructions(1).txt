@@ -1,0 +1,25 @@
+/*Exercse 1: 
+ * 
+ * 1)Create an Express.jas app that allows users to create game surveys. You will have to design an 
+ MVC structure. Create a model that describes a game survey object. Each survey object should have:
+ 
+ surveyId - String
+ gameGenre - String
+ daysPerYear - Number
+ age - String
+
+2) Create a controller that implements: add survey, list survey, update daysPerYear or delete a survey
+from the list. In development.js file, name the MongoDB database: YourFullName-survey-db.
+
+3) Create the necessary ejs views to allow the user to use the application:
+   - An ejs file will be used to add survey information (as shown above - showed a picture of 
+   Labels named: Survey ID with input box, Game Genre with input box, Days played per Year with input box, age with input box, 
+   and Enter survey with a button saying Add to survey)
+
+   - An ejs file will be used to display a list of surveys as shown below (Showed something similar to our list
+   page).
+   - The same ejs file used for displaying the list, can be also used to either update or delete a survey
+   ash shown below (In the list, there's also an update option on the same page)
+
+4) Main page: You may use the code from Lab Assignment 2 or Sample Test to implement your  solution.
+ */
