@@ -1,0 +1,14 @@
+C:\Users\Sahil\Source\Repos\Week05\Week_05_lab_10_Linq_Query_Syntax\bin\Debug\Week_05_lab_10_Linq_Query_Syntax.exe.config
+C:\Users\Sahil\Source\Repos\Week05\Week_05_lab_10_Linq_Query_Syntax\bin\Debug\Week_05_lab_10_Linq_Query_Syntax.exe
+C:\Users\Sahil\Source\Repos\Week05\Week_05_lab_10_Linq_Query_Syntax\bin\Debug\Week_05_lab_10_Linq_Query_Syntax.pdb
+C:\Users\Sahil\Source\Repos\Week05\Week_05_lab_10_Linq_Query_Syntax\obj\Debug\Week_05_lab_10_Linq_Query_Syntax.csprojResolveAssemblyReference.cache
+C:\Users\Sahil\Source\Repos\Week05\Week_05_lab_10_Linq_Query_Syntax\obj\Debug\Week_05_lab_10_Linq_Query_Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Source\Repos\Week05\Week_05_lab_10_Linq_Query_Syntax\obj\Debug\Week_05_lab_10_Linq_Query_Syntax.exe
+C:\Users\Sahil\Source\Repos\Week05\Week_05_lab_10_Linq_Query_Syntax\obj\Debug\Week_05_lab_10_Linq_Query_Syntax.pdb
+C:\Users\rshet\Downloads\last day centennial\Week05\Week_05_lab_10_Linq_Query_Syntax\bin\Debug\Week_05_lab_10_Linq_Query_Syntax.exe.config
+C:\Users\rshet\Downloads\last day centennial\Week05\Week_05_lab_10_Linq_Query_Syntax\bin\Debug\Week_05_lab_10_Linq_Query_Syntax.exe
+C:\Users\rshet\Downloads\last day centennial\Week05\Week_05_lab_10_Linq_Query_Syntax\bin\Debug\Week_05_lab_10_Linq_Query_Syntax.pdb
+C:\Users\rshet\Downloads\last day centennial\Week05\Week_05_lab_10_Linq_Query_Syntax\obj\Debug\Week_05_lab_10_Linq_Query_Syntax.csprojResolveAssemblyReference.cache
+C:\Users\rshet\Downloads\last day centennial\Week05\Week_05_lab_10_Linq_Query_Syntax\obj\Debug\Week_05_lab_10_Linq_Query_Syntax.csproj.CoreCompileInputs.cache
+C:\Users\rshet\Downloads\last day centennial\Week05\Week_05_lab_10_Linq_Query_Syntax\obj\Debug\Week_05_lab_10_Linq_Query_Syntax.exe
+C:\Users\rshet\Downloads\last day centennial\Week05\Week_05_lab_10_Linq_Query_Syntax\obj\Debug\Week_05_lab_10_Linq_Query_Syntax.pdb
